@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NetC1_2 Pin=C?-2
+Removed Member From Class: ClassName=Sheet1 Member=C?
+Added Component: Designator=C3(tu hoa 5mm)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001351"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 100uF 25V 6x11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_1 Pin=C3-1
+Added Pin To Net: NetName=NetC1_2 Pin=C3-2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC3_1
+Added Member To Class: ClassName=Sheet1 Member=Component C3 100uF
